@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kudakwashe-code
 - 👀 I’m interested in ... python and java
-- 🌱 I’m currently learning ...Web development 
+- 🌱 I’m currently learning ...Web development and cyber security 
+- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...by email.. kudakwashekatena@gmail.com 
 
